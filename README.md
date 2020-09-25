@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is my README page. It's under construction so check back later for some interesting updates.
 
 <!--
 **rojinadeuja/rojinadeuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
