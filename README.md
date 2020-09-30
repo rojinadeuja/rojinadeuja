@@ -1,6 +1,6 @@
 ## Hi there! 
 
-**I am an International student pursuing Computer Science at University of Nebraska-Lincoln. Data analysis is my strong suit but I am working on making myself equally competent in Full-Stack Software Development.**
+**I am an International student pursuing Computer Science at University of Nebraska-Lincoln. While Data analysis is my strong suit, I'm working on making myself equally competent in Full-Stack Software Development.**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojinadeuja&layout=compact&hide=jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
