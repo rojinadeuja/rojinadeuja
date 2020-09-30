@@ -1,7 +1,16 @@
-### Hi there, this is my README page. It's under construction so check back later for some interesting updates.
+### Hi there, my name is Rojina Deuja. I am an International student pursuing Computer Science at University of Nebraska-Lincoln. Data analysis is my strong suit but I want to make myself equally competent in Full-Stack Software Development.
+
+### You can find some of my projects here. Recently, I have worked with a lot of JavaScript (ReactJS, Node.js) and Python (Machine Learning). I also have worked on numerous projects on Java and C#(.NET) including but not limited to web applications, desktop applications, andriod and windows mobile development.
 
 <!--
 **rojinadeuja/rojinadeuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## My Top Skills:
+Programming Languages: JavaScript(React, Node), Python, C#(.NET), Java, Go
+
+
+
+
 
 Here are some ideas to get you started:
 
