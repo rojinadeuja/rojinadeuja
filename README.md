@@ -1,13 +1,12 @@
 ## Hi there! 
 
-**I am an International student pursuing Computer Science at University of Nebraska-Lincoln. While Data analysis is my strong suit, I'm working on making myself equally competent in Full-Stack Software Development.**
-
+**I am an International student pursuing Computer Science at University of Nebraska-Lincoln.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojinadeuja&layout=compact&hide=jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find some of my projects here. Recently, I have worked with a lot of JavaScript (ReactJS, Node.js) and Python (Machine Learning).
+You can find some of my projects here. Recently, I have worked with a lot of **JavaScript (ReactJS, Node.js) and Python (Machine Learning)**.
 
-I've also worked on numerous projects on Java and C#(.NET) including but not limited to Web applications, Desktop applications, Andriod and Windows app development.
+I've also worked on numerous projects on **Java and C#(.NET)** including but not limited to Web applications, Desktop applications, Andriod and Windows app development.
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/rojinadeuja/">
