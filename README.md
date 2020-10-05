@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojinadeuja&layout=compact&hide=jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find some of my projects here. Recently, I have worked with a lot of **JavaScript (ReactJS, Node.js) and Python (Machine Learning)**.
+You can find some of my projects here. Recently I have mostly worked with **JavaScript (ReactJS, Node.js) and Python (Machine Learning)**.
 
 I've also worked on numerous projects on **Java and C#(.NET)** for Web applications, Desktop applications, Andriod and Windows app development.
 
