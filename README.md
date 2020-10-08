@@ -6,7 +6,7 @@
 
 You can find some of my projects here. Recently I have mostly worked with **JavaScript (ReactJS, Node.js) and Python (Machine Learning)**.
 
-I've also worked on numerous projects on **Java and C#(.NET)** for Web applications, Desktop applications, Andriod and Windows app development.
+I've also worked on numerous projects on **Java and C#(.NET)** for Web applications, Desktop applications, Android and Windows app development.
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/rojinadeuja/">
