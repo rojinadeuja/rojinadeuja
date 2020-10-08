@@ -14,7 +14,7 @@ I've also worked on numerous projects on **Java and C#(.NET)** for Web applicati
   </a>&nbsp;&nbsp;
 </p>
 <p align='center'> 
-  <a href="https://www.linkedin.com/in/rojinadeuja/">
+  <a href="https://rojinadeuja.github.io/">
     <img src="https://img.shields.io/static/v1?label=Visit&message=Website&color=green" />
   </a>&nbsp;&nbsp;
 </p>
