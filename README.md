@@ -1,12 +1,23 @@
 ## Hi there! 
 
-**I am an International student pursuing Computer Science at University of Nebraska-Lincoln.**
+**My name is Rojina and I am a Data Nerd.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojinadeuja&layout=compact&hide=jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find some of my projects here. Recently I have mostly worked with **JavaScript (ReactJS, Node.js) and Python (Machine Learning)**.
+I like to train models and make them do the guessing. SQL is my second language. Right now, I'm trying to teach my machines how to understand my english too! (This is all too say I work with Data Analytics, Machine Learning and now I'm venturing into Natural Language Processing)
 
-I've also worked on numerous projects on **Java and C#(.NET)** for Web applications, Desktop applications, Android and Windows app development.
+Fun fact: I have always been "meh" in Mathematics but good in Programming. I guess that makes me an imposter. But hey, I never stop trying!
+
+I have taken up the challange to get as good in Software Development. Why? Because a Software Engineer who can play around with data as much as code would be Invincible!
+
+:pushpin: Data is the future and Coding is going to take me there.
+
+
+**In a Nutshell:**
+
+You can find some of my projects here. Recently I have mostly worked with **JavaScript (ReactJS, Node.js) and Python (for Machine Learning)**.
+
+I've also worked on numerous projects on **Java and C#(.NET)** for Web applications, desktop applications, android and windows mobile app development.
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/rojinadeuja/">
