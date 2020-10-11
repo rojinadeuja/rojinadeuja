@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojinadeuja&layout=compact&hide=jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-I like to train models and make them do the guessing. SQL is my second language. Right now, I'm trying to teach my machines how to understand my english too! (This is all too say I work with Data Analytics, Machine Learning and now I'm venturing into Natural Language Processing)
+I like to train models and make them do the guessing. SQL is my second language. Right now, I'm trying to teach the machines how to understand my english too! (This is all too say I work with Data Analytics, Machine Learning and now I'm venturing into Natural Language Processing)
 
 Fun fact: I have always been "meh" in Mathematics but good in Programming. I guess that makes me an imposter. But hey, I never stop trying!
 
