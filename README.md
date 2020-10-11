@@ -8,9 +8,10 @@ I like to train models and make them do the guessing. SQL is my second language.
 
 Fun fact: I have always been "meh" in Mathematics but good in Programming. I guess that makes me an imposter. But hey, I never stop trying!
 
-I have taken up the challange to get as good in Software Development. Why? Because a Software Engineer who can play around with data as much as code would be Invincible!
+:pushpin: I have taken up the challange to get as good in Software Development. Why? Because a Software Engineer who can play around with data as much as code would be Invincible!
 
-:pushpin: Data is the future and Coding is going to take me there.
+**Data is the future and Coding is going to take me there.**
+
 
 
 **In a Nutshell:**
