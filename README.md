@@ -6,8 +6,6 @@
 
 I like to train models and make them do the guessing. SQL is my second language. Right now, I'm trying to teach the machines how to understand my english too! (This is all too say I work with Data Analytics, Machine Learning and now I'm venturing into Natural Language Processing)
 
-Fun fact: I have always been "meh" in Mathematics but good in Programming. I guess that makes me an imposter. But hey, I never stop trying!
-
 :pushpin: I have taken up the challange to get as good in Software Development. Why? Because a Software Engineer who can play around with data as much as code would be Invincible!
 
 **Data is the future and Coding is going to take me there.**
