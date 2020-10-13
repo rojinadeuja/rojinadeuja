@@ -1,6 +1,10 @@
 ## Hi there! 
 
-I am an international student at the University of Nebraska-Lincoln.
+I'm an international student pursuing Masters of Science in Computer Science at the <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>.
+
+:triangular_flag_on_post: Looking for Summer 2021 Internship
+
+:triangular_flag_on_post: Graduating December 2021
 
 **I invest most of my time learning Data Science. I am really interested in building innovative Data-driven solutions that can refine traditional software paradigms.**
 
@@ -8,7 +12,7 @@ I am an international student at the University of Nebraska-Lincoln.
 
 You can find some of my projects here. Recently I have mostly worked with **JavaScript (ReactJS, Node.js) and Python (for Machine Learning)**.
 
-I've also worked on numerous projects on **Java and C#(.NET)** for Web applications, desktop applications, android and windows mobile app development.
+I also have experience working with **Java and C#(.NET)** for Web applications, desktop applications, android and windows mobile app development.
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/rojinadeuja/">
