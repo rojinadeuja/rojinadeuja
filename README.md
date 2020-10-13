@@ -2,7 +2,7 @@
 
 I'm an international student pursuing Masters of Science in Computer Science at <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>.
 
-:triangular_flag_on_post: Looking for Summer 2021 Internship
+:triangular_flag_on_post: Currently Looking for Summer 2021 Internship
 
 :triangular_flag_on_post: Graduating December 2021
 
