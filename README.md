@@ -6,7 +6,7 @@ I'm an international student pursuing Masters of Science in Computer Science at 
 
 :triangular_flag_on_post: Graduating December 2021
 
-**I invest most of my time learning Data Science. I am really interested in building innovative Data-driven solutions that can refine traditional software paradigms.**
+**I invest most of my time learning Data Science. I'm interested in building innovative Data-driven solutions that can refine traditional software paradigms.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojinadeuja&layout=compact&hide=jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
