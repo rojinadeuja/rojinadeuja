@@ -8,7 +8,7 @@ I'm an international student pursuing Masters in Computer Science at <a href="ht
 
 **I invest most of my time learning Data Science. I'm interested in building innovative Data-driven solutions that can refine traditional software paradigms.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojinadeuja&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojinadeuja&hide=jupyter%20notebook&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find some of my projects here. Right now, I'm mostly working with **JavaScript (ReactJS, Node.js) and Python (for Machine Learning)**.
 
