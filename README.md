@@ -2,9 +2,7 @@
 
 I'm an international student pursuing Masters in Computer Science at <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>.
 
-:triangular_flag_on_post: Open to Full-time SDE roles <a href="https://rojinadeuja.github.io/docs/deuja_rojina_resume.pdf">[View Resume]</a>
-
-:triangular_flag_on_post: Graduating December 2021
+:triangular_flag_on_post: Open to Full-time SDE roles starting December 2021 <a href="https://rojinadeuja.github.io/docs/deuja_rojina_resume.pdf">[View Resume]</a>
 
 **I invest most of my time learning Data Science. I'm interested in building innovative Data-driven solutions that can refine traditional software paradigms.**
 
