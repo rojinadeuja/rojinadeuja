@@ -8,7 +8,7 @@ I'm an international student pursuing Masters in Computer Science at <a href="ht
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojinadeuja&hide=jupyter%20notebook&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find some of my projects here. Right now, I'm mostly working with **Python (for Machine Learning) and JavaScript (ReactJS, Node.js)**.
+You can find some of my projects here. Currently I mostly work with **Python (for Machine Learning) and JavaScript (ReactJS, Node.js)**.
 
 I also have experiences with **GoLang, Java and C#(.NET)**.
 
