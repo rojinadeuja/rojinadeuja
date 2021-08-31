@@ -4,13 +4,13 @@ I'm an international student pursuing Masters in Computer Science at <a href="ht
 
 :triangular_flag_on_post: Open to Full-time SDE roles starting December 2021 <a href="https://rojinadeuja.github.io/docs/deuja_rojina_resume.pdf">[View Resume]</a>
 
-**I invest most of my time learning Data Science. I'm interested in building innovative Data-driven solutions that can refine traditional software paradigms.**
+**I invest most of my time learning Data Science. I'm interested in building innovative Data-driven solutions that can refine traditional software paradigms. I throughly enjoy Software Development and Data Engineering.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojinadeuja&hide=jupyter%20notebook&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find some of my projects here. Right now, I'm mostly working with **JavaScript (ReactJS, Node.js) and Python (for Machine Learning)**.
+You can find some of my projects here. Right now, I'm mostly working with **Python (for Machine Learning) and JavaScript (ReactJS, Node.js)**.
 
-I also have experiences with **Java and C#(.NET)** for Web applications, desktop applications, android and windows mobile app development.
+I also have experiences with **GoLang, Java and C#(.NET)**.
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/rojinadeuja/">
