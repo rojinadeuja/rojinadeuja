@@ -1,6 +1,6 @@
 ## Hi there! 
 
-I'm MS in Computer Science graduate starting a new job as an MTS Software Engineer in 2022.
+I'm an MS in Computer Science graduate starting a new job as an MTS Software Engineer in 2022.
 
 :triangular_flag_on_post: <a href="https://rojinadeuja.github.io/docs/deuja_rojina_resume.pdf">[View Resume]</a>
 
