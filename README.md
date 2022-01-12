@@ -1,8 +1,8 @@
 ## Hi there! 
 
-I'm an international student pursuing Masters in Computer Science at <a href="https://www.unl.edu/">University of Nebraska-Lincoln</a>.
+I'm MS in Computer Science graduate starting a new job as an MTS Software Engineer in 2022.
 
-:triangular_flag_on_post: Open to Full-time SDE roles starting December 2021 <a href="https://rojinadeuja.github.io/docs/deuja_rojina_resume.pdf">[View Resume]</a>
+:triangular_flag_on_post: <a href="https://rojinadeuja.github.io/docs/deuja_rojina_resume.pdf">[View Resume]</a>
 
 **I invest most of my time learning Data Science. I enjoy working on innovative Data-driven solutions that refine traditional software paradigms to benefit customers and businesses.**
 
